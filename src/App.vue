@@ -5,7 +5,7 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
-    <el-button>1</el-button>
+    <el-button>ele-ui</el-button>
   </div>
 </template>
 
